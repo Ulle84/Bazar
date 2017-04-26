@@ -1,0 +1,49 @@
+﻿Der Buildvorgang wurde am 02.12.2013 15:41:52 gestartet.
+     1>Projekt "E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\libzint.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\libzint.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Id:\opt\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_WARNINGS /D "ZINT_VERSION=\"2.4.4\"" /D BUILD_ZINT_DLL /D ZLIB_DLL /D PNG_DLL /D _WINDLL /D _MBCS /Gm /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR- /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /wd4018 /wd4244 /wd4305 /analyze- /errorReport:prompt ..\backend\2of5.c ..\backend\auspost.c ..\backend\aztec.c ..\backend\code.c ..\backend\code1.c ..\backend\code128.c ..\backend\code16k.c ..\backend\code49.c ..\backend\common.c ..\backend\composite.c ..\backend\dllversion.c ..\backend\dm200.c ..\backend\dmatrix.c ..\backend\gridmtx.c ..\backend\gs1.c ..\backend\imail.c ..\backend\large.c ..\backend\library.c ..\backend\maxicode.c ..\backend\medical.c ..\backend\pdf417.c ..\backend\plessey.c ..\backend\png.c ..\backend\postal.c ..\backend\ps.c ..\backend\qr.c ..\backend\reedsol.c ..\backend\render.c ..\backend\rss.c ..\backend\svg.c ..\backend\telepen.c ..\backend\upcean.c
+         upcean.c
+         telepen.c
+         svg.c
+         rss.c
+         render.c
+         reedsol.c
+         qr.c
+     1>e:\downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\backend\qr.c(773): warning C4101: 'str': Unreferenzierte lokale Variable
+         ps.c
+         postal.c
+         png.c
+     1>e:\downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\backend\png.c(47): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "png.h": No such file or directory
+         plessey.c
+         pdf417.c
+         medical.c
+         maxicode.c
+         library.c
+         large.c
+         imail.c
+         gs1.c
+         gridmtx.c
+         dmatrix.c
+         Code wird generiert...
+         Kompilieren...
+         dm200.c
+     1>c1xx : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "..\backend\dm200.c": No such file or directory
+         dllversion.c
+         composite.c
+         common.c
+         code49.c
+         code16k.c
+         code128.c
+         code1.c
+         code.c
+         aztec.c
+         auspost.c
+         2of5.c
+         Code wird generiert...
+     1>Die Erstellung des Projekts "E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\libzint.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:03.57

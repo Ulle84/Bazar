@@ -1,0 +1,24 @@
+﻿Der Buildvorgang wurde am 02.12.2013 15:41:56 gestartet.
+     1>Projekt "E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\zint.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\zint.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\backend /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WIN32 /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_WARNINGS /D "ZINT_VERSION=\"2.3.0\"" /D ZINT_DLL /D _MBCS /Gm /RTCc /RTC1 /MDd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\frontend\getopt.c ..\frontend\getopt1.c ..\frontend\main.c
+         main.c
+         getopt1.c
+         getopt.c
+         Code wird generiert...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Debug\zint.res" ..\frontend\zint.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\Debug\zint.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\zint.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\Debug\zint.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\Debug\zint.lib" /MACHINE:X86 Debug\zint.res
+         Debug\getopt.obj
+         Debug\getopt1.obj
+         Debug\main.obj
+         "E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\Debug\libzint.lib"
+     1>LINK : fatal error LNK1104: Datei "E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\Debug\libzint.lib" kann nicht geöffnet werden.
+     1>Die Erstellung des Projekts "E:\Downloads\zint-code-2e5fe31ebfba09e07c934434c3885dc40224a5bf\win32\zint.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:00.43

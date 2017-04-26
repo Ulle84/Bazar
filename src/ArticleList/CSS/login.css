@@ -1,0 +1,61 @@
+html * {
+    font-family: Verdana;
+    font-size: 10pt;
+    line-height: 150%;
+}
+
+body {
+    padding: 10px;
+}
+
+a {
+    color: #2895f1;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+input {
+    font-family: Verdana;
+    font-size: 10pt;
+}
+
+table {
+    font-size: 10pt;
+    border-spacing: 0px;
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.center {
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -100px 0 0 -250px;
+}
+
+.hidden {
+    display: none;
+}
+
+#loginResponse {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 40px 0 0 -250px;
+}
+
+#navigation {
+    text-align: right;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid slategray;
+}

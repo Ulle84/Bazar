@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="144" version="1.1" height="80">
+  <desc xmlns="http://www.w3.org/2000/svg"> 100000&#xd;
+ </desc>
+  <g xmlns="http://www.w3.org/2000/svg" fill="#000000" id="barcode">
+    <rect xmlns="http://www.w3.org/2000/svg" width="144" x="0" y="0" fill="#FFFFFF" height="80"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="0.00" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="1.60" x="4.80" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="1.60" x="9.60" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="17.60" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="22.40" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="28.80" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="1.60" x="35.20" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="4.80" x="38.40" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="6.40" x="44.80" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="52.80" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="1.60" x="59.20" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="1.60" x="65.60" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="70.40" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="75.20" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="81.60" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="88.00" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="92.80" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="99.20" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="4.80" x="105.60" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="112.00" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="4.80" x="116.80" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="123.20" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="4.80" x="131.20" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="1.60" x="137.60" y="0.00" height="40"/>
+    <rect xmlns="http://www.w3.org/2000/svg" width="3.20" x="140.80" y="0.00" height="40"/>
+    <text x="120" y="55" font-family="Helvetica" fill="#000000" text-anchor="middle" font-size="14">100000</text>
+  </g>
+</svg>

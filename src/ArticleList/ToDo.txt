@@ -1,0 +1,5 @@
+ToDo
+* passwort in eigene Datei auslagern und notfiySellers aus gitignore rausnehmen
+* Summe aller eingegebenen Preise
+* Liste auf zwei Geräten gleichzeitig editierbar machen -> PUSH-Mechanismus implementieren
+* Wenn die Frist abgelaufen ist auf read-only umschalten -> direkt, nicht erst nach einem Refresh der Seite -> sonst können die Leute doch noch nach Ablauf der Frist editieren
